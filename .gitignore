@@ -1,0 +1,50 @@
+# TouchDesigner específicos
+*.crash
+*.dmp
+*.toe.backup
+Backup/
+Crash/
+.tdUI
+
+# Caché y archivos temporales de TouchDesigner
+*.tox.cache
+
+# Archivos multimedia pesados (Opcional - descomenta para ignorarlos globalmente)
+# *.mp4
+# *.mov
+# *.exr
+# *.tif
+# *.wav
+# *.jpg
+# *.png
+
+# Entornos y dependencias Python (Útil para scripts externos en TD o Data Science)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Node.js / Web (Si integras interfaces web, APIs o CMS)
+node_modules/
+dist/
+build/
+.next/
+npm-debug.log
+yarn-error.log
+
+# Logs y bases de datos locales
+*.log
+*.sqlite
+*.sqlite3
+
+# Archivos del sistema operativo (Windows / macOS)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Backup/
