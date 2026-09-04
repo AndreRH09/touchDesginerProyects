@@ -63,15 +63,15 @@ El proyecto cuenta con una jerarquía de interfaces y elementos de control visua
 ## Registro Visual y Documentación Gráfica
 
 ### Render de Estructura Cerebral
-![Visualización del Cerebro](ParticulesTPv1/Image/brain.png)
+![Visualización del Cerebro](Image/brain.png)
 *Muestra del renderizado y comportamiento de las partículas correspondiente al archivo PLY de la nube de puntos del cerebro.*
 
 ### Render de Estructura Craneal
-![Visualización del Cráneo](ParticulesTPv1/Image/skull.png)
+![Visualización del Cráneo](Image/skull.png)
 *Renderizado de los datos anatómicos procedentes del CT scan de cabeza completa (Visible Human Female).*
 
 ### Interfaz de Control Háptico y Escala
-![Control Háptico de Escala](ParticulesTPv1/Image/control.png)
+![Control Háptico de Escala](Image/control.png)
 *Renderizado de la línea analógica de distancia entre los dedos pulgar e índice de la mano derecha controlando las dimensiones de la geometría encapsulada en el cubo estructural.*
 
 ---
